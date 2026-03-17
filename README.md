@@ -1,4 +1,6 @@
 # 🛍️ Shopping Mall Intelligence System
+Live Demo:-
+https://shopping-mall-ml-system-3mew5sknmygrorpbp6ckl7.streamlit.app/
 
 A modern, AI-powered web application for shopping mall analytics and customer insights built with Streamlit and Machine Learning.
 
